@@ -4,7 +4,7 @@ Autor: Nilo Ney Coutinho Menezes
 Novatec - 4ª Edição
 
 Programa que converte uma temperatura em Celsius (°C) para Fahrenheit (F).
-Autora: Dayane Dutra Mendes (Técnico em Informática - 2° Período)
+Autora: Dayane Dutra (Técnico em Informática - 2° Período)
 Última Modificação: 10/10/2026
 Contato: dutra007@proton.me
 '''
